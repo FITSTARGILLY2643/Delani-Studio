@@ -97,3 +97,15 @@
                 .portfolio>img {
                     margin-right: 10px;
                 }
+                
+                .footer {
+                    text-align: center;
+                }
+                
+                .footer>img {
+                    margin-right: 20px;
+                }
+                
+                .delani {
+                    font-size: xx-small
+                }
