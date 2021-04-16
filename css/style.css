@@ -1,0 +1,17 @@
+    .first-page {
+        color: white;
+        background-color: black;
+        height: 400px;
+        /* position: relative;
+        bottom: -40px; */
+    }
+    
+    .head {
+        text-align: center;
+        position: relative;
+        top: 80px;
+    }
+    
+    #amazing {
+        font-size: xx-small;
+    }
