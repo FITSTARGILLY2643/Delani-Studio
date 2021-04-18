@@ -20,7 +20,7 @@ To access this project on your local files, you can clone it using these steps
 1. JS
 1. jQuerry
 ### Live Site
-View [live](   )
+View [live](https://fitstargilly2643.github.io/Delani-Studio/)
 ### Contacts
 Reach us on delanistudio@moringa.com or call +254 725 060 098
 ### Licence
